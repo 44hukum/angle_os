@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="CargoProjects">
+    <cargoProject FILE="$PROJECT_DIR$/Cargo.toml" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4464304f-549f-4e35-8b31-6be817cbe261" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.cargo/config.toml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/pari.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/x86_64-pari.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Rust File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="2dxqsw3r" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1jKIOYeovdlKYbkVI4Zj4btLFp4" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="org.rust.cargo.project.model.PROJECT_DISCOVERY" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.externalResources" />
+  </component>
+  <component name="RunManager" selected="Cargo.Expand pari::vga_buffer">
+    <configuration name="Expand pari::vga_buffer" type="CargoCommandRunConfiguration" factoryName="Cargo Command" temporary="true">
+      <option name="channel" value="DEFAULT" />
+      <option name="command" value="expand --bin pari --color=always --theme=GitHub --tests vga_buffer" />
+      <option name="allFeatures" value="false" />
+      <option name="emulateTerminal" value="false" />
+      <option name="backtrace" value="SHORT" />
+      <option name="workingDirectory" value="file://$PROJECT_DIR$" />
+      <envs />
+      <method v="2">
+        <option name="CARGO.BUILD_TASK_PROVIDER" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Run pari" type="CargoCommandRunConfiguration" factoryName="Cargo Command" temporary="true">
+      <option name="channel" value="DEFAULT" />
+      <option name="command" value="run --package pari --bin pari" />
+      <option name="allFeatures" value="false" />
+      <option name="emulateTerminal" value="false" />
+      <option name="backtrace" value="SHORT" />
+      <option name="workingDirectory" value="file://$PROJECT_DIR$" />
+      <envs />
+      <method v="2">
+        <option name="CARGO.BUILD_TASK_PROVIDER" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Cargo.Expand pari::vga_buffer" />
+        <item itemvalue="Cargo.Run pari" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="RustProjectSettings">
+    <option name="toolchainHomeDirectory" value="$USER_HOME$/.cargo/bin" />
+    <option name="version" value="2" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4464304f-549f-4e35-8b31-6be817cbe261" name="Default Changelist" comment="" />
+      <created>1603546324979</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603546324979</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="312" y="833" width="732" height="644" key="#Inspections" timestamp="1603559955856">
+      <screen x="0" y="768" width="1366" height="768" />
+    </state>
+    <state x="312" y="833" width="732" height="644" key="#Inspections/0.27.1366.741/0.768.1366.768@0.768.1366.768" timestamp="1603559955856" />
+    <state x="416" y="901" width="524" height="509" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1603560504043">
+      <screen x="0" y="768" width="1366" height="768" />
+    </state>
+    <state x="416" y="901" width="524" height="509" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.27.1366.741/0.768.1366.768@0.768.1366.768" timestamp="1603560504043" />
+    <state width="1320" height="181" key="GridCell.Tab.0.bottom" timestamp="1603561635047">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1320" height="181" key="GridCell.Tab.0.bottom/0.27.1366.741/0.768.1366.768@0.27.1366.741" timestamp="1603561635047" />
+    <state width="1320" height="181" key="GridCell.Tab.0.bottom/0.27.1366.741/0.768.1366.768@0.768.1366.768" timestamp="1603559563180" />
+    <state width="1320" height="181" key="GridCell.Tab.0.center" timestamp="1603561635046">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1320" height="181" key="GridCell.Tab.0.center/0.27.1366.741/0.768.1366.768@0.27.1366.741" timestamp="1603561635046" />
+    <state width="1320" height="181" key="GridCell.Tab.0.center/0.27.1366.741/0.768.1366.768@0.768.1366.768" timestamp="1603559563179" />
+    <state width="1320" height="181" key="GridCell.Tab.0.left" timestamp="1603561635045">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1320" height="181" key="GridCell.Tab.0.left/0.27.1366.741/0.768.1366.768@0.27.1366.741" timestamp="1603561635045" />
+    <state width="1320" height="181" key="GridCell.Tab.0.left/0.27.1366.741/0.768.1366.768@0.768.1366.768" timestamp="1603559563179" />
+    <state width="1320" height="181" key="GridCell.Tab.0.right" timestamp="1603561635047">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1320" height="181" key="GridCell.Tab.0.right/0.27.1366.741/0.768.1366.768@0.27.1366.741" timestamp="1603561635047" />
+    <state width="1320" height="181" key="GridCell.Tab.0.right/0.27.1366.741/0.768.1366.768@0.768.1366.768" timestamp="1603559563180" />
+    <state x="304" y="878" width="748" height="554" key="new project wizard" timestamp="1603813644591">
+      <screen x="0" y="768" width="1366" height="768" />
+    </state>
+    <state x="304" y="878" width="748" height="554" key="new project wizard/0.27.1366.741/0.768.1366.768@0.768.1366.768" timestamp="1603813644591" />
+    <state x="347" y="551" key="run.anything.popup" timestamp="1603547381932">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="347" y="551" key="run.anything.popup/0.27.1366.741/0.768.1366.768@0.768.1366.768" timestamp="1603547381932" />
+  </component>
+</project>
